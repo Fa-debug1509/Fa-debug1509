@@ -1,45 +1,174 @@
-<h1 align="center">Hi 👋, I'm Farha Deeba</h1>
-<h3 align="center">BCA Student • AI & Software Engineering Enthusiast • Building Practical AI Applications</h3>
+<div align="center">
 
-I'm a BCA student at Presidency College, Bengaluru, passionate about Artificial Intelligence, Full-Stack Development, and Software Engineering. I enjoy building practical AI applications and continuously improving my skills through projects, research, and open-source learning.
+# Hi, I'm Farha Deeba 👋
 
-## 🚀 Current Focus
+### Building the Next Generation of AI Software.
 
-- 🤖 Building AI-powered applications
-- 🌱 Learning Data Structures & Algorithms
-- 💻 Strengthening Full-Stack Development skills
-- 🎯 Seeking Software Engineering & AI internships
+[Portfolio](https://farha-deeba-portfolio.vercel.app/) •
+[LinkedIn](https://linkedin.com/in/farha-deeba-ai) •
+[Email](mailto:farhadeeba2006@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fa-debug1509&label=Profile%20views&color=0e75b6&style=flat" alt="fa-debug1509" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-debug1509" alt="fa-debug1509" /></a> </p>
+---
 
-- I'm currently working on [NeuraPath AI — AI-powered learning & mentorship platform](https://neurapath-ai-swart.vercel.app/)
+## About Me
 
-- I'm currently learning Artificial Intelligence, Data Structures & Algorithms, React, Node.js, and Python.
+I'm a BCA student at Presidency College, Bengaluru, passionate about Artificial Intelligence, Software Engineering, and building products that solve real problems.
 
-- 👨‍💻 All of my projects are available at [https://farha-deeba-portfolio.vercel.app/](https://farha-deeba-portfolio.vercel.app/)
+Currently focused on creating AI-powered applications while strengthening my foundation in software engineering, data structures, and backend development. :contentReference[oaicite:0]{index=0}
 
-- 💬 Ask me about Java, Python, React, Node.js, Prompt Engineering, and UI/UX.
+---
 
-- 📫 How to reach me **farhadeeba2006@gmail.com**
+## Current Focus
 
-- ⚡ Fun fact: Outside of coding, I'm a fashion model in my college club, serve as my class representative, presented an AI research paper on digital storytelling and literary authorship, and enjoy sketching and painting. 
+- 🚀 Building **NeuraPath AI**
+- 🤖 Artificial Intelligence
+- ⚙️ Software Engineering
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farha-deeba-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farha-deeba-ai" height="30" width="40" /></a>
+---
+
+# Featured Project
+
+## 🧠 NeuraPath AI
+
+An AI-powered learning platform designed to help students learn smarter through personalized roadmaps, an AI mentor, project ideas, resume guidance, and PromptVerse.
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Claude AI
+- Vercel
+
+### Links
+
+🌐 Live
+
+https://neurapath-ai-swart.vercel.app/
+
+💻 GitHub
+
+https://fa-debug1509.github.io/neurapath-ai/
+
+---
+# Experience
+
+### 💼 Web Development & AI Intern — InAmigos Foundation
+
+**May 2026 – June 2026**
+
+- Conducted UX/UI audits of NGO websites
+- Created redesign proposals
+- Built HTML reports with annotated screenshots
+- Used AI tools for research and productivity
+- Worked with prompt engineering and documentation
+  # Education
+
+| Degree | Institute | Year |
+|---------|-----------|------|
+| Bachelor of Computer Applications | Presidency College, Bengaluru | 2025–2028 |
+
+**GPA:** **9.46/10**
+# Certifications
+
+- AWS Solutions Architecture Job Simulation
+- Deloitte Data Analytics Job Simulation
+- Wells Fargo Software Engineering Job Simulation
+- Be10x AI Tools Workshop
+- # Research
+
+### Reimagining Creativity: AI, Digital Storytelling and the Transformation of English Literary Authorship
+
+Presented at **St. Claret College LUMOS Conference**.
+# Tools I Use
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,notion&perline=6"/> 
+# Currently Learning
+
+- Artificial Intelligence
+- Data Structures & Algorithms
+- React
+- Backend Development
+- System Design
+  # 2026 Goals
+
+- Build production-ready AI applications
+- Contribute to Open Source
+- Secure a Software Engineering internship
+- Master React & Node.js
+- Publish more AI projects
+
+- # Fun Facts
+
+- 🎨 Fashion Team Member at College
+- 🎤 Research Paper Presenter
+- 🎭 Love sketching and design
+- 🤖 Passionate about AI-powered products
+- 
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,nodejs,react,mysql,git,github,vscode,figma&perline=7"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fa-debug1509&show_icons=true&locale=en&layout=compact" alt="fa-debug1509" /></p>
+## Achievements
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fa-debug1509&show_icons=true&locale=en" alt="fa-debug1509" /></p>
+- ⭐ First Year GPA — **9.46/10**
+- 📄 Research Paper Presentation
+- 💼 Web Development Intern — InAmigos Foundation
+- 🏆 Deloitte, AWS & Wells Fargo Job Simulations :contentReference[oaicite:1]{index=1}
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fa-debug1509&" alt="fa-debug1509" /></p>
+---
 
-## 📈 Contribution Graph
+## GitHub Stats
 
-[![Farha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fa-debug1509&theme=tokyo-night)](https://github.com/Fa-debug1509)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fa-debug1509&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa-debug1509&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=fa-debug1509&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/farha-deeba-ai">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:farhadeeba2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://farha-deeba-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building useful software, one project at a time.
+
+</div>
